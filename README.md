@@ -44,7 +44,7 @@ For this project we were tasked with making the process as "industry like" as po
 ## ⧸⧸ Cloning _Shudder_
 
    ```bash
-   git clone https://github.com/Possibility-1B/Possibility.git
+   git clone https://github.com/jwihardi/Shudder.git
 ```
 
 Make sure to set the res folder as a source folder.
