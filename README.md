@@ -83,10 +83,9 @@ Our .gitignore is from GitHub's [UnrealEngine.gitignore](https://github.com/gith
 </div>   
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-
 <div style="display: flex; justify-content: space-around;">
-  <img align="left" src="https://github.com/user-attachments/assets/15c804f2-d239-44dc-a207-482c099c6c6c" width = "47%"/>
-  <img align = "right" src="https://github.com/user-attachments/assets/5f6f939d-8c5d-4639-b98f-889f47c8fd78" width= "47%"/>
+  <img align="left" src="https://github.com/user-attachments/assets/a5b272c4-8851-4207-acd0-d95da61dc42b" width = "47%"/>
+  <img align = "right" src="https://github.com/user-attachments/assets/f1711983-4cfd-40ab-86dd-9e0816c90c7e" width= "47%"/>
 </div>   
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ---
