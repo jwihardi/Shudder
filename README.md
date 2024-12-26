@@ -60,7 +60,7 @@ Our .gitignore is from GitHub's [UnrealEngine.gitignore](https://github.com/gith
 | `S` or `↓`              | Move Backward       |
 | `D`                     | Move Right          |
 | `SHIFT`                 | Sprint              |  
-| `_ `                    | Jump                |
+| `_`                    | Jump                |
 | `E`                     | Interact            |  
 | `H`                     | Hide                |  
 | `F`                     | Turn on Flashlight  |  
