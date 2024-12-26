@@ -47,7 +47,7 @@ For this project we were tasked with making the process as "industry like" as po
    git clone https://github.com/jwihardi/Shudder.git
 ```
 
-Make sure to set the res folder as a source folder.
+Our .gitignore is from GitHub's [UnrealEngine.gitignore](https://github.com/github/gitignore/blob/main/UnrealEngine.gitignore).
 
 ---
 
