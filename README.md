@@ -18,7 +18,9 @@ For this project we were tasked with making the process as "industry like" as po
 ### Features:
 - **Monster**: An AI monster that roams around the house. Once the monster sees the player, it will give chase even after breaking the line of sight for a while. It will also check closets randomly and flip light switches when passing by. It will occasionally make eerie sounds and a single footstep.
   
-- **Player**: The player can do default movements: walk in all directions, sprint while having stamina, and jump. The player can interact with interactables via the specified keybinds (E to pickup | H to hide). 
+- **Player**: The player can do default movements: walk in all directions, sprint while having stamina, and jump. The player can interact with interactables via the specified keybinds (E to pickup | H to hide).
+
+- **Custom Map**: The actual house was constructed in Blender from a real blue-print found online. It was created by extruding lines - creating planes - and the textures were either free assets or made through Blender's nodes. Free assets, mostly from Quixel Bridge were scattered around once imported in Unreal Engine.
 
 - **Flashlight/Battery**: A interactable flashlight that the player will pick up to illuminate dark spaces. The flashlight is not infinite and the player will need to pick up batteries to recharge it.
 
