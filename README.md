@@ -70,7 +70,7 @@ Our .gitignore is from GitHub's [UnrealEngine.gitignore](https://github.com/gith
 
 
 
-## 📸 Media
+## 📋 Menus
 <div style="display: flex; justify-content: space-around;">
   <img align="left" src="https://github.com/user-attachments/assets/093557cd-e24b-41e2-bb27-dd044dad2f44" width = "47%"/>
   <img align = "right" src="https://github.com/user-attachments/assets/9fc661b1-a1d3-40f7-8de2-5903765ad982" width= "47%"/>
@@ -80,12 +80,6 @@ Our .gitignore is from GitHub's [UnrealEngine.gitignore](https://github.com/gith
 <div style="display: flex; justify-content: space-around;">
   <img align="left" src="https://github.com/user-attachments/assets/5c644e07-4b2c-4050-8ec4-200462c21c9d" width = "47%"/>
   <img align = "right" src="https://github.com/user-attachments/assets/5f6f939d-8c5d-4639-b98f-889f47c8fd78" width= "47%"/>
-</div>   
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<div style="display: flex; justify-content: space-around;">
-  <img align="left" src="https://github.com/user-attachments/assets/f6925091-679b-479d-a01a-40afb04bb1b6" width = "47%"/>
-  <img align = "right" src="https://github.com/user-attachments/assets/f1711983-4cfd-40ab-86dd-9e0816c90c7e" width= "47%"/>
 </div>   
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ---
