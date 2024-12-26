@@ -16,13 +16,29 @@ _Shudder_ is a 3D horror/puzzle game consisting of one level, a house. The playe
 For this project we were tasked with making the process as "industry like" as possible, having a manager, company name, tasks, etc. We name our company, _Rat Man Games_ and kept track of our tasks through [Trello](https://trello.com).
 
 ### Features:
-- **Gravity Switch**: A box interactable with an arrow indicating which way gravity will be flipped. There is a cooldown at the bottom left of the screen that shows when you can flip gravity again.
+- **Monster**: An AI monster that roams around the house. Once the monster sees the player, it will give chase even after breaking the line of sight for a while. It will also check closets randomly and flip light switches when passing by. It will occasionally make eerie sounds and a single footstep.
   
-- **Spike**: A triangular obstacle that will kill the player if touched. There are stationary spikes and moving spikes, which activate once the player passes the x-coordinate of the spike.
+- **Player**: The player can do default movements: walk in all directions, sprint while having stamina, and jump. The player can interact with interactables via the specified keybinds (E to pickup | H to hide). 
 
-- **Ice**: A rectangular obstacle, usually embedded into the floor, that will freeze horizontal movement until the player leaves the ice.
+- **Flashlight/Battery**: A interactable flashlight that the player will pick up to illuminate dark spaces. The flashlight is not infinite and the player will need to pick up batteries to recharge it.
 
--  **Surfboard**: A box-shaped obstacle that moves very freely when the player stands on top of it. Gravity affects the surfboard, but not as much as it does with the player.
+- **Lights/Light Switches**: Instead of wasting flashlight battery, the player can turn on overhead lights with light switches. 
+
+-  **Closets**: A space that the player can hide in, although the monster might open closets and check inside.
+
+-  **Beds**: Similar to the **Closet**, however they are more sparingly places around the house and the monster will not check under them.
+
+-  **Radios**: They are scattered around the house and will play a letter in Morse Code.
+
+-  **Note Cards**: An object that displays text or images that can be picked up momentarily for a clear view.
+
+-  **Keys**: Some doors are locked so the player must pick up keys to open them.
+
+-  **Drawer**: An interactable dresser with drawers that can have items played within.
+
+-  **Settings**: A menu allows the player to customize their experience, such as fullscreen/windows, 4 resolutions, 5 FPS settings, post-processing, anti-aliasing, texture quality, shadow quality, and volume and sensitivity sliders. There is also a **key binds** subsetting allowing the player to change the interact, hide, sprint, jump, flashlight, and pause key binds.
+
+-  **Saving**: Progress is automatically saved every 30 seconds and the player can resume their session through Singleplayer->Continue.
 
 ---
 ## ⧸⧸ Cloning _Possibility_
