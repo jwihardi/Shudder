@@ -68,10 +68,12 @@ Our .gitignore is from GitHub's [UnrealEngine.gitignore](https://github.com/gith
 
 ---
 
+
+
 ## 📸 Media
 <div style="display: flex; justify-content: space-around;">
-  <img align="left" src="https://github.com/user-attachments/assets/5167ea94-3f0e-4513-b3b8-ad09b712a455" width = "47%"/>
-  <img align = "right" src="https://github.com/user-attachments/assets/6e9c4696-91cf-4db5-be4a-a80f207dc80a" width= "47%"/>
+  <img align="left" src="https://github.com/user-attachments/assets/093557cd-e24b-41e2-bb27-dd044dad2f44" width = "47%"/>
+  <img align = "right" src="https://github.com/user-attachments/assets/9fc661b1-a1d3-40f7-8de2-5903765ad982" width= "47%"/>
 </div>   
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
