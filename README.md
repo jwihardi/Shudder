@@ -41,7 +41,7 @@ For this project we were tasked with making the process as "industry like" as po
 -  **Saving**: Progress is automatically saved every 30 seconds and the player can resume their session by pressing "Continue" instead of "New Game".
 
 ---
-## ⧸⧸ Cloning _Possibility_
+## ⧸⧸ Cloning _Shudder_
 
    ```bash
    git clone https://github.com/Possibility-1B/Possibility.git
