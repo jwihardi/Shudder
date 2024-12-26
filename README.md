@@ -89,50 +89,13 @@ Our .gitignore is from GitHub's [UnrealEngine.gitignore](https://github.com/gith
 
 While this project served as a great learning experience, there are many areas that could have been improved:
 
-- **Audio**: There was no audio, although we did start writing code for it.
-  
-- **Hard Code**: The levels are hard coded a little too much, especially level 8. Code for the levels could be greatly simplified and reduced.
+- **Audio**: The player has a "wood sounding" footstep which doesn't change in the basement and garage which had different materials. The jumpscare and death sound aren't very impactful and could have been better. The menu music isn't really eerie or matching either. Some more organic sounds should have been incorporated, such as groans that come from the monster.
 
-- **Gravity**: Originally the whole map was the rotate but we couldn't figure that out. Gravity changed horizontally could have been a nice touch.
+- **Movement**: The movement feels awkward. The FOV is too low and makes it confusing when turning around in a small area. Turning feels slightly delayed, though this isn't a big deal since it's not an FPS game.
 
-- **Action Listener**: We should've code the controls you don't have to click at the exact moment, but can click a little before. 
+- **Map Design**: The map design is a little lack luster. There should be more clutter to make it feel more like a house, such as curtains blowing in the wind. The window texture is too clear, it doesn't look like there is even a window frame. There are also some issues regarding lighting and the map, some areas seem lit even when there is no light on.
 
-- **Menu Buttons**: Some of the menu buttons don't work and need to be clicked several times - only the death menu.
-
-- **Static**: At the time of the project, we didn't really understand what static did and would make mostly everything static because Eclipse would tell us.
-
-- **Surfboard**: Originally the surfboard was supposed to be a push box, but the push block code made a surfboard instead.
-
--  **Level Design**: The level design is mostly lacking and there are only 8 levels.
-
----
-
-## 🧹 Post Completion Cleanup
-
-Cleanup was done after completion of Possibility, limited functionality changes were implemented.
-
-- **Usage**: [UCDetector](https://marketplace.eclipse.org/content/unnecessary-code-detector) was used to find and remove unecessary code.
-
-- **Modifiers**: [UCDetector](https://marketplace.eclipse.org/content/unnecessary-code-detector) was used to located and change unnecessary modifiers.
-
-- **Imports**: Unecessary imports were removed. Imports were changed to be sorted from top to bottom: packages, classes, third-party libraries, and Java libraries.
-
-- **Attributes**: Class attributes were organized in order from top to bottom in memory size then objects. Depending on context, variables were converted to single line declarations versus multiple lines.
-
-- **Media**: The media classes [AnimationLoader.java](https://github.com/Possibility-1B/Possibility/blob/main/src/Media/AnimationLoader.java) and [ImageLoader.java](https://github.com/Possibility-1B/Possibility/blob/main/src/Media/ImageLoader.java) were altered to use a HashMap instead of multiple variables. File paths were changed to be Jar friendly using getResourceAsStream().
-
-- **Level Completion**: Originally there was a variable keeping track of level completion to enforce levels had to be completed in succcession but wasn't ever used. This was fixed.
-  
----
-
-## 📚 Libraries [[download]](https://github.com/user-attachments/files/17930581/libs.zip)
-<pre
-    <b>
-• Slick2D           • LWJGL (core | util | applet)           • IBXM           • JInput           • JNLP   
-        
-• JOGG              • JOrbis                                 • TinyLinePP     • DirectInput      • OpenAL
-    </b>
-</pre>
+- **Multiplayer**: This feature should have been completely removed. Multiplayer doesn't work at all since everything is client-sided and desynced, although players can join each other locally.
 
 ---
 
