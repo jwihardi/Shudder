@@ -7,7 +7,7 @@
 </div>   
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-_Shudder_ is a 3D game created for our highschool senior project by a team of 2 utilizing Blender and Unreal Engine 5. This was our capstone project, so it was a cumulation of all the knowledge we've learned for three years, AP Computer Science Principles, AP Computer Science A, and the first half of out C++ class (the class this was made for).
+_Shudder_ is a 3D game created for our highschool senior project by a team of 2 utilizing Blender and Unreal Engine 5. This was our capstone project, so it was a cumulation of all the knowledge we've learned for three years, AP Computer Science Principles, AP Computer Science A, and the first half of our C++ class.
 
 ## 📜 Description
 
