@@ -38,7 +38,7 @@ For this project we were tasked with making the process as "industry like" as po
 
 -  **Settings**: A menu allows the player to customize their experience, such as fullscreen/windows, 4 resolutions, 5 FPS settings, post-processing, anti-aliasing, texture quality, shadow quality, and volume and sensitivity sliders. There is also a **key binds** subsetting allowing the player to change the interact, hide, sprint, jump, flashlight, and pause key binds.
 
--  **Saving**: Progress is automatically saved every 30 seconds and the player can resume their session through Singleplayer->Continue.
+-  **Saving**: Progress is automatically saved every 30 seconds and the player can resume their session by pressing "Continue" instead of "New Game".
 
 ---
 ## ⧸⧸ Cloning _Possibility_
