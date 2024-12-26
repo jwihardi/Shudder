@@ -97,6 +97,8 @@ While this project served as a great learning experience, there are many areas t
 
 - **Multiplayer**: This feature should have been completely removed. Multiplayer doesn't work at all since everything is client-sided and desynced, although players can join each other locally.
 
+- **Assets**: More assets should have been custom-made rather than using online free assets since many don't fit quite right. The stairs were extremely hard to make work since the monster's pathfinding wouldn't go up it if it was too steep and neither could the player. The light switches don't animate which could have easily been added.
+
 ---
 
 
