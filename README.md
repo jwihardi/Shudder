@@ -1,8 +1,9 @@
 # ☯ Shudder [[runnable]](https://github.com/Possibility-1B/Possibility/releases/tag/Java8Binarries)
 
+
 <div style="display: flex; justify-content: space-around;">
-  <img align="left" src="https://github.com/user-attachments/assets/05b214e7-a524-41a1-924f-ab4537dc0abc" width="47%"/>
-  <img align = "right" src="https://github.com/user-attachments/assets/4ae1b347-0dfd-4321-b615-e6706b8f8586" width="47%"/>
+  <img align="left" src="https://github.com/user-attachments/assets/b3f574e9-09a8-4b91-b0a5-8a327e5b7e2f" width="47%"/>
+  <img align = "right" src="https://github.com/user-attachments/assets/a71e8b26-1326-4b52-b354-e6bd111e182e" width="47%"/>
 </div>   
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
