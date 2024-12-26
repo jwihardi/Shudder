@@ -12,6 +12,8 @@ _Shudder_ is a 3D game created for our highschool senior project by a team of 2 
 
 _Shudder_ is a 3D horror/puzzle game consisting of one level, a house. The player has to manage the battery of their flashlight, not using it too much, and pick up batteries when necessary. To get out, there is one main puzzle utilizing the color wheel, Morse Code, and alphabetical numeration. Completing these puzzles gives you the padlock code to escape the house. While the player is doing all of this, there is an AI monster roaming around that will reset progress if the player is killed. The player has some methods to hide from the monster, such as hiding in beds, closets, and closing doors since the monster cannot open doors.
 
+For this project we were tasked with making the process as "industry like" as possible, having a manager, company name, tasks, etc. We name our company, _Rat Man Games_ and kept track of our tasks through [Trello](https://trello.com).
+
 ### Features:
 - **Gravity Switch**: A box interactable with an arrow indicating which way gravity will be flipped. There is a cooldown at the bottom left of the screen that shows when you can flip gravity again.
   
