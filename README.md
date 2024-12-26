@@ -51,16 +51,20 @@ Our .gitignore is from GitHub's [UnrealEngine.gitignore](https://github.com/gith
 
 ---
 
-## 🎮 Controls
+## 🎮 Default Controls
 
 | Key                     | Action              |
 |-------------------------|---------------------|
-| `W` or `⭡`              | Move Up             |
-| `A` or `←`              | Move Left           |
-| `S` or `↓`              | Move Down           |
-| `D` or `→`              | Move Right          |
-| `_ `or `W` or `↑`       | Jump                |
+| `W` or `⭡`              | Move Forward        |
+| `A`                     | Move Left           |
+| `S` or `↓`              | Move Backward       |
+| `D`                     | Move Right          |
+| `SHIFT`                 | Sprint              |  
+| `_ `                    | Jump                |
 | `E`                     | Interact            |  
+| `H`                     | Hide                |  
+| `F`                     | Turn on Flashlight  |  
+| `Esc`                   | Pause/Menus         |  
 
 ---
 
