@@ -1,4 +1,4 @@
-# ☯ Shudder [[runnable]](https://github.com/Possibility-1B/Possibility/releases/tag/Java8Binarries)
+#  Shudder [[runnable]](https://github.com/Possibility-1B/Possibility/releases/tag/Java8Binarries)
 
 
 <div style="display: flex; justify-content: space-around;">
