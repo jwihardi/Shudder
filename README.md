@@ -48,7 +48,7 @@ For this project we were tasked with making the process as "industry like" as po
    ```bash
    git clone https://github.com/jwihardi/Shudder.git
 ```
-
+**Git-LFS may be out of free bandwidth so you can also download source code [here](https://drive.google.com/file/d/1iB8PiEtOWrUt0YK4qEC8tKPVGHhg1Y5z/view?usp=sharing)**
 Our .gitignore is from GitHub's [UnrealEngine.gitignore](https://github.com/github/gitignore/blob/main/UnrealEngine.gitignore).
 
 ---
